@@ -58,6 +58,61 @@
 
 
 
+## Ubuntu安装Wireshark
+
+Wireshark 可以在 Ubuntu 的 Universe 存储库中找到。你可以[启用 universe 存储库](https://link.zhihu.com/?target=https%3A//itsfoss.com/ubuntu-repositories/)，然后按如下方式安装：
+
+```
+sudo add-apt-repository universe
+sudo apt install wireshark
+```
+
+这种方法的一个小问题是，你可能并不总是得到最新版本的 Wireshark 。例如，在 Ubuntu 18.04 中，如果你使用 [apt](https://link.zhihu.com/?target=https%3A//itsfoss.com/apt-command-guide/) 命令检查 Wireshark 的可用版本，可用版本会显示是 2.6 。
+
+```
+abhishek@nuc:~$ apt show wireshark
+Package: wireshark
+Version: 2.6.10-1~ubuntu18.04.0
+Priority: optional
+Section: universe/net
+Origin: Ubuntu
+Maintainer: Balint Reczey <rbalint@ubuntu.com>
+```
+
+Wireshark 开发者提供了一种官方 PPA 方式，你可以使用它在 Ubuntu 和其它基于 Ubuntu 的发行版上安装最新稳定版本的 Wireshark。打开终端并逐个使用以下命令：
+
+```
+sudo add-apt-repository ppa:wireshark-dev/stable
+sudo apt update
+sudo apt install wireshark
+```
+
+即使安装了旧版本的 Wireshark ，它也将更新为新版本。
+
+安装时，系统将询问你是否允许非超级用户捕获数据包。选择“Yes”允许，选择“No”限制非超级用户捕获数据包，最后完成安装。
+
+### 不使用sudo运行Wireshark
+
+如果在上一次安装中选择了“No”，则以 root 用户身份运行以下命令：
+
+```
+sudo dpkg-reconfigure wireshark-common
+```
+
+然后按 `tab` 键并使用回车键选择“No”：
+
+
+
+由于你允许非超级用户捕获数据包，因此你必须将该用户添加到 `wireshark` 组。使用 [usermod](https://link.zhihu.com/?target=https%3A//linuxhandbook.com/usermod-command/) 命令将自己添加到 `wireshark` 组。
+
+```
+sudo usermod -aG wireshark $(whoami)
+```
+
+最后，重启你的 Ubuntu 系统对你的系统进行必要的修改。
+
+
+
 # 安装Virtualbox
 
 选择`Virtualbox`原因：1. `Virtualbox`是开源软件，`VMware` 不开源且收费。2. `Virtualbox`对`Linux` 虚拟机字符界面支持较好，`VMware` 对`Linux`虚拟机的字符界面支持很差，比如不能自动调整分辨率。
@@ -108,7 +163,7 @@
 
 ## 下载Ubuntu镜像
 
-**可以在中科大源下载http://mirrors.ustc.edu.cn/ubuntu-releases/18.04/，选择`ubuntu-18.04.6-desktop-amd64.ios`**
+**可以在[中科大源下载](http://mirrors.ustc.edu.cn/ubuntu-releases/22.04/)，选择`ubuntu-22.04.1-desktop-amd64.ios`**
 
 ![pic26](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic26.png)
 
