@@ -4,21 +4,21 @@
 
 **资料已经上传，需要自取，[官方下载网站](https://www.wireshark.org/#download)**
 
-![pic1](C:\Users\Shawn\Desktop\pic\pic1.png)
+![pic1](Labs/picture/doc_picture/pic1.png)
 
 ## 2.安装步骤
 
 **双击下载完成的应用**
 
-![pic2](C:\Users\Shawn\Desktop\pic\pic2.png)
+![pic2](Labs/picture/doc_picture/pic2.png)
 
 **点击Next**
 
-![pic3](C:\Users\Shawn\Desktop\pic\pic3.png)
+![pic3](Labs/picture/doc_picture/pic3.png)
 
 **点击Noted进入下一步**
 
-![pic4](C:\Users\Shawn\Desktop\pic\pic4.png)
+![pic4](Labs/picture/doc_picture/pic4.png)
 
 **在这里全部选择，之后点击Next。**
 
