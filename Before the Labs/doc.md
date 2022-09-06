@@ -4,57 +4,57 @@
 
 **资料已经上传，需要自取，[官方下载网站](https://www.wireshark.org/#download)**
 
-![pic1](https://github.com/ShawnZL/Labs/tree/master/picture/doc_picture/pic1.png)
+![pic1](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic1.png)
 
 ## 2.安装步骤
 
 **双击下载完成的应用**
 
-![pic2](https://github.com/ShawnZL/Labs/tree/master/picture/doc_picture/pic2.png)
+![pic2](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic2.png)
 
 **点击Next**
 
-![pic3](https://github.com/ShawnZL/Labs/tree/master/picture/doc_picture/pic3.png)
+![pic3](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic3.png)
 
 **点击Noted进入下一步**
 
-![pic4](https://github.com/ShawnZL/Labs/tree/master/picture/doc_picture/pic4.png)
+![pic4](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic4.png)
 
 **在这里全部选择，之后点击Next。**
 
-![pic5](C:\Users\Shawn\Desktop\pic\pic5.png)
+![pic5](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic5.png)
 
 **这一步也是全部选择，点击Next。**
 
-![pic6](C:\Users\Shawn\Desktop\pic\pic6.png)
+![pic6](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic6.png)
 
 **选择安装程序的地址，点击Next。**
 
-![pic7](C:\Users\Shawn\Desktop\pic\pic7.png)
+![pic7](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic7.png)
 
 **这一步，勾选的安装可以通过 `wireshark ` 软件分析 `USB` 报文，这里选择安装，点击Next。**
 
-![pic8](C:\Users\Shawn\Desktop\pic\pic8.png)
+![pic8](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic8.png)
 
 **这一步开始安装过程，安装过程中会弹出下面界面。**
 
-![pic9](C:\Users\Shawn\Desktop\pic\pic9.png)
+![pic9](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic9.png)
 
 点击选择`I Agree`，继续进行安装。**安装到后期阶段会提示安装WinPcap，直接点击下一步默认安装即可。**
 
-![pic10](C:\Users\Shawn\Desktop\pic\pic10.png)
+![pic10](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic10.png)
 
 **同时下面会提示USBPcap的安装，勾选上同意协议后点击Next安装。**
 
-![pic11](C:\Users\Shawn\Desktop\pic\pic11.png)
+![pic11](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic11.png)
 
-![pic13](C:\Users\Shawn\Desktop\pic\pic13.png)
+![pic13](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic13.png)
 
-![pic14](C:\Users\Shawn\Desktop\pic\pic14.png)
+![pic14](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic14.png)
 
 **安装完成后点击Next。安装完Wireshark后需要重启。这里第一选项是立即重启，第二选项是稍后重启，根据自己的需求选择重启。**
 
-![pic12](C:\Users\Shawn\Desktop\pic\pic12.png)
+![pic12](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic12.png)
 
 
 
@@ -64,45 +64,45 @@
 
 **[官方下载链接](https://www.virtualbox.org/wiki/Downloads)，选择`Windows hosts` 下载**
 
-![pic15](C:\Users\Shawn\Desktop\pic\pic15.png)
+![pic15](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic15.png)
 
 **双击运行 `VirtualBox-6.1.38-153438-Win.exe` 进入安装界面：**
 
-![pic16](C:\Users\Shawn\Desktop\pic\pic16.png)
+![pic16](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic16.png)
 
 **选择 VirtualBox Application 并修改安装位置，安装路径最好不要携带中文路径**
 
-![pic17](C:\Users\Shawn\Desktop\pic\pic17.png)
+![pic17](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic17.png)
 
 **这里全部勾选**
 
-![pic18](C:\Users\Shawn\Desktop\pic\pic18.png)
+![pic18](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic18.png)
 
 **点击是继续安装**
 
-![pic19](C:\Users\Shawn\Desktop\pic\pic19.png)
+![pic19](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic19.png)
 
 **点击安装，进入安装程序**
 
-![pic20](C:\Users\Shawn\Desktop\pic\pic20.png)
+![pic20](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic20.png)
 
 **这里安装过程中会提醒安装 `Oracle Corporation 通用串行总线控制器`，安装即可，不然后续不能打开 VirtualBox 软件，我这里可能是安装过的原因，没有出现提示。**
 
-![pic22](C:\Users\Shawn\Desktop\pic\pic22.png)
+![pic22](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic22.png)
 
-![pic23](C:\Users\Shawn\Desktop\pic\pic23.png)
+![pic23](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic23.png)
 
 **安装完成界面**
 
-![pic21](C:\Users\Shawn\Desktop\pic\pic21.png)
+![pic21](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic21.png)
 
 ## 配置虚拟机默认安装位置
 
 **打开全局设置，配置虚拟机安装地址，默认是存放到 C 盘，这里我改到了`D:\VirtualBox Vms`**
 
-**其他配置按照需求修改![pic25](C:\Users\Shawn\Desktop\pic\pic25.png)**
+**其他配置按照需求修改![pic25](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic25.png)**
 
-![pic24](C:\Users\Shawn\Desktop\pic\pic24.png)
+![pic24](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic24.png)
 
 **即可，`VirtualBox` 只是一个虚拟机的供应者。**
 
@@ -110,103 +110,103 @@
 
 **可以在中科大源下载http://mirrors.ustc.edu.cn/ubuntu-releases/18.04/，选择`ubuntu-18.04.6-desktop-amd64.ios`**
 
-![pic26](C:\Users\Shawn\Desktop\pic\pic26.png)
+![pic26](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic26.png)
 
 ## 配置虚拟机配置
 
 **打开虚拟机软件`VirtualBox`，点击左上角“新建”按钮。输入虚拟机的名称，选择类型为`Linux`，点击版本下拉选框选择与已经下载的`Ubuntu`镜像对应的版本，64位的就选择`Ubuntu(64-bit)`，32位的就选择`Ubuntu(32-bit)`。点击“下一步”按钮。**
 
-![pic27](C:\Users\Shawn\Desktop\pic\pic27.png)
+![pic27](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic27.png)
 
 **之后弹出的对话框中设置为虚拟机分配的内存，最好设置为物理内存的四分之一。我的是16GB内存，就可以给虚拟机分配4GB内存，也就是4096MB。（或者也可根据具体使用来适当增大，不必严格按照四分之一来设定，设定完后不可修改，建议设大些），设置完成之后点击“下一步”按钮。**
 
-![pic28](C:\Users\Shawn\Desktop\pic\pic28.png)
+![pic28](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic28.png)
 
 **选择默认的选项“现在创建虚拟硬盘”，点击“创建按钮”，如果想要使用已有的虚拟硬盘文件可以选择第三个选项，选择对应路径的虚拟硬盘文件。**
 
-![pic29](C:\Users\Shawn\Desktop\pic\pic29.png)
+![pic29](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic29.png)
 
 **在这一步设置虚拟硬盘的类型，选择默认选项`VDI`就好，然后点击“下一步”。**
 
-![pic30](C:\Users\Shawn\Desktop\pic\pic30.png)
+![pic30](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic30.png)
 
 **在这一步设置虚拟硬盘的分配规则，选择动态分配，点击“下一步”。**
 
-![pic31](C:\Users\Shawn\Desktop\pic\pic31.png)
+![pic31](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/)
 
 **在这一步设置虚拟硬盘文件的保存位置，以及虚拟硬盘的大小（建议设置160G）。设置完成之后，点击“创建”按钮，进入下一步。**
 
-![pic32](C:\Users\Shawn\Desktop\pic\pic32.png)
+![pic32](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic32.png)
 
 **在虚拟机软件的左侧边栏已经出现创建的虚拟机（还没有装系统）。
 在虚拟机选项上单击右键，点击“设置”。
 点击弹出框左侧的“系统”选项，勾选右侧“网络”，不勾选的话创建的虚拟机不能连接网络!!!!**
 
-![pic34](C:\Users\Shawn\Desktop\pic\pic34.png)
+![pic34](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic34.png)
 
 **点击左侧“网络”选项，在右侧的下拉选项中选择“桥接网卡”。点击右下角“ok”按钮，完成并保存对虚拟机系统的设置。**
 
-![pic33](C:\Users\Shawn\Desktop\pic\pic33.png)
+![pic33](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic33.png)
 
 **在虚拟机选项上单击鼠标右键，选择“启动”，再选择“正常启动”。**
 
-![pic35](C:\Users\Shawn\Desktop\pic\pic35.png)
+![pic35](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic35.png)
 
 **由于没有设置ISO镜像，所以会弹出这样的对话框，点击文件夹图标，然后选择已经下载好的Ubuntu镜像。**
 
-![pic36](C:\Users\Shawn\Desktop\pic\pic36.png)
+![pic36](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic36.png)
 
 ![pic37](C:\Users\Shawn\Desktop\pic\pic37.png)
 
 **点击选择，之后进行安装**
 
-![pic38](C:\Users\Shawn\Desktop\pic\pic38.png)
+![pic38](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic38.png)
 
 ![pic39](C:\Users\Shawn\Desktop\pic\pic39.png)
 
 **左边界面选择自己喜欢的语言，点击`Install Ubuntu`开始安装**
 
-![pic40](C:\Users\Shawn\Desktop\pic\pic40.png)
+![pic40](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic40.png)
 
 **选择键盘模式，选择喜欢语言即可，点击`Continue`**
 
-![pic41](C:\Users\Shawn\Desktop\pic\pic41.png)
+![pic41](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic41.png)
 
 **默认即可，尽量不要选择`Download updates while installing Ubuntu`，这需要消耗很多时间，点击`Continue`。**
 
-![pic42](C:\Users\Shawn\Desktop\pic\pic42.png)
+![pic42](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic42.png)
 
 **默认即可，点击`Install Now`**
 
-![pic43](C:\Users\Shawn\Desktop\pic\pic43.png)
+![pic43](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic43.png)
 
 **在弹出的界面，点击`Continue`**
 
-![pic44](C:\Users\Shawn\Desktop\pic\pic44.png)
+![pic44](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic44.png)
 
 **在地图上找到shanghai，如下图所示，点击`Continue`**
 
-![pic45](C:\Users\Shawn\Desktop\pic\pic45.png)
+![pic45](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic45.png)
 
 **设置用户名和密码，点击`Continue`**
 
-![pic46](C:\Users\Shawn\Desktop\pic\pic46.png)
+![pic46](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic46.png)
 
 **开始安装,这个过程需要等待好长一段时间**
 
-![pic47](C:\Users\Shawn\Desktop\pic\pic47.png)
+![pic47](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic47.png)
 
 **安装完成后，点击`Restart Now`**
 
-![pic48](C:\Users\Shawn\Desktop\pic\pic48.png)
+![pic48](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic48.png)
 
 **进入敲击回车进入系统**
 
-![pic49](C:\Users\Shawn\Desktop\pic\pic49.png)
+![pic49](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic49.png)
 
 **选择自己设置的账号，并且输入密码**
 
-![pic50](C:\Users\Shawn\Desktop\pic\pic50.png)
+![pic50](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic50.png)
 
 **整个安装过程到此完成，开始进入`Ubuntu`系统玩耍吧**
 
@@ -218,11 +218,11 @@
 
 **进入terminal界面，输入命令`apt update -y` 更新软件列表。如果没有权限，加入`sudo`进入超级权限**
 
-![pic52](C:\Users\Shawn\Desktop\pic\pic52.png)
+![pic52](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic52.png)
 
 **在ubuntu18中，直接有dig，使用命令`dig baidu.com`**
 
-![pic53](C:\Users\Shawn\Desktop\pic\pic53.png)
+![pic53](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic53.png)
 
 简明使用，只会输出A记录(写脚本的时候容易获取ip地址)
 
@@ -316,7 +316,7 @@ jpuyy.com.		600	IN	A	114.215.158.48
 sudo apt-get install iperf3
 ```
 
-![pic54](C:\Users\Shawn\Desktop\pic\pic54.png)
+![pic54](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic54.png)
 
 **iperf3就是一个网络链路质量检测的一个工具。说到网络链路这就涉及到两端，顾名思义就是要部署两台。数据中心A和数据中心B都部署相同版本的iperf3工具，当然也可以使用不同版本的。**
 
@@ -380,7 +380,7 @@ Client specific:
 
 执行命令`sudo apt install curl`
 
-![pic55](C:\Users\Shawn\Desktop\pic\pic55.png)
+![pic55](https://github.com/ShawnZL/Labs/raw/master/picture/doc_picture/pic55.png)
 
 ## tc
 
